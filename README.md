@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# Intelligent Mobile Development!
 ## Android App Development: College Students Communication App
 
 ### Resources
