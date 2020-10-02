@@ -11,3 +11,5 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 Android Test
 ![My Application](https://user-images.githubusercontent.com/71313907/94102967-f0017200-fe65-11ea-8046-379a296d0956.jpg)
 ![Android Emulator](https://user-images.githubusercontent.com/71313907/94102981-fc85ca80-fe65-11ea-978c-f5488070c840.jpg)
+PART-A
+![Assignment](https://user-images.githubusercontent.com/71313907/94970774-f82d7180-0537-11eb-9a05-783cb0c085ce.jpg)
