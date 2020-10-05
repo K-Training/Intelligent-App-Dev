@@ -14,5 +14,6 @@ The user should be able to download the app either from Baidu, App Gallery, Play
  PART-A
 ![Assignment](https://user-images.githubusercontent.com/71313907/94970774-f82d7180-0537-11eb-9a05-783cb0c085ce.jpg)
 
- PART-B
+
 <img width="119" alt="android" src="https://user-images.githubusercontent.com/71313907/95098582-7751be00-0761-11eb-8f29-9175c5b63820.png">
+PART-B
