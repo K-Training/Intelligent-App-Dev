@@ -10,7 +10,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 
 Android Test
 ![Android Emulator](https://user-images.githubusercontent.com/71313907/94102981-fc85ca80-fe65-11ea-978c-f5488070c840.jpg)
-PART-A
+\n PART-A
 ![Assignment](https://user-images.githubusercontent.com/71313907/94970774-f82d7180-0537-11eb-9a05-783cb0c085ce.jpg)
-PART-B
+\n PART-B
 <img width="119" alt="android" src="https://user-images.githubusercontent.com/71313907/95098582-7751be00-0761-11eb-8f29-9175c5b63820.png">
