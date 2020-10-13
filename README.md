@@ -19,3 +19,9 @@ The user should be able to download the app either from Baidu, App Gallery, Play
  1.2 PART-B
 
 <img width="119" alt="android" src="https://user-images.githubusercontent.com/71313907/95098582-7751be00-0761-11eb-8f29-9175c5b63820.png">
+
+![Ex 2 1](https://user-images.githubusercontent.com/71313907/95802175-583dc800-0d2f-11eb-8da5-331db946c8ee.jpg)
+
+Scrolling
+
+![Ex 2 2](https://user-images.githubusercontent.com/71313907/95802299-b2d72400-0d2f-11eb-92a5-c7c4f9be87eb.jpg)
