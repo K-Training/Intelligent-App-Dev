@@ -8,14 +8,14 @@ I will be using HP Laptop, Android Studio, Java, and XML for the development of 
 
 The user should be able to download the app either from Baidu, App Gallery, Play store or Apple store. Large number of users should able to use the app concurrently. The app should have a social function that will enable the user to login and connect with friends using the same app. Users should be able to send friend request to other users using the app. Friends should see each other, example User A and User B are friends and can see each other.
 
- Android Test
+ Getting started
 
 ![Android Emulator](https://user-images.githubusercontent.com/71313907/94102981-fc85ca80-fe65-11ea-978c-f5488070c840.jpg)
 
- PART-A
+ 1.2 PART-A
 
  ![Assignment](https://user-images.githubusercontent.com/71313907/95100814-1081d400-0764-11eb-8837-d6216b384878.jpg)
 
- PART-B
+ 1.2 PART-B
 
 <img width="119" alt="android" src="https://user-images.githubusercontent.com/71313907/95098582-7751be00-0761-11eb-8f29-9175c5b63820.png">
