@@ -10,7 +10,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 
  Getting started
 
- ![App1](https://user-images.githubusercontent.com/71313907/95803550-fc753e00-0d32-11eb-8751-0f3d29c21279.jpg)
+ ![App1](https://user-images.githubusercontent.com/71313907/95804022-32ff8880-0d34-11eb-97f9-66b7c62bd192.jpg)
 
  1.2 PART-A
 
