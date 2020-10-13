@@ -10,7 +10,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 
  Getting started
 
-![Android Emulator](https://user-images.githubusercontent.com/71313907/94102981-fc85ca80-fe65-11ea-978c-f5488070c840.jpg)
+ ![App1](https://user-images.githubusercontent.com/71313907/95803550-fc753e00-0d32-11eb-8751-0f3d29c21279.jpg)
 
  1.2 PART-A
 
