@@ -18,7 +18,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 
  1.2 PART-B
 
-![Ex 2 1](https://user-images.githubusercontent.com/71313907/95802175-583dc800-0d2f-11eb-8da5-331db946c8ee.jpg)
+ ![App2](https://user-images.githubusercontent.com/71313907/95804887-8b378a00-0d36-11eb-85ce-0dfb16cbab56.jpg)
 
 Scrolling Text
 
