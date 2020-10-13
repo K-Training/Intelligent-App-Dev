@@ -23,3 +23,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 Scrolling Text
 
 ![App3](https://user-images.githubusercontent.com/71313907/95805166-56780280-0d37-11eb-8baa-6b0e5c2a3292.jpg)
+
+Two Activity
+
+![App4](https://user-images.githubusercontent.com/71313907/95810476-9fce4f00-0d43-11eb-866f-fe9032f27161.jpg)
