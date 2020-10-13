@@ -18,7 +18,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 
 ## 1.2 Part B: The layout editor
 
- ![App2](https://user-images.githubusercontent.com/71313907/95804887-8b378a00-0d36-11eb-85ce-0dfb16cbab56.jpg)
+![app](https://user-images.githubusercontent.com/71313907/95829715-2fd2bf80-0d69-11eb-992a-5e5e9b7a993c.jpg)
 
 ![App3](https://user-images.githubusercontent.com/71313907/95805166-56780280-0d37-11eb-8baa-6b0e5c2a3292.jpg)
 
