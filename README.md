@@ -29,3 +29,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 # Week 5. Implicit Intents
 ## 2.3: Implicit Intents
 ![App6](https://user-images.githubusercontent.com/71313907/96521375-b7598a80-12a3-11eb-9084-3a3047628c86.jpg)
+
+## Week 6. User Interaction
+![App7](https://user-images.githubusercontent.com/71313907/96570682-3929d200-12fd-11eb-8988-6bdf7d9ff5bb.jpg)
+![App8](https://user-images.githubusercontent.com/71313907/96570740-48a91b00-12fd-11eb-883a-597a8dd84eaa.jpg)
