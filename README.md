@@ -36,3 +36,5 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 ![App9](https://user-images.githubusercontent.com/71313907/97775263-45821a80-1b9a-11eb-86da-0b3730c64006.jpg)
 ![App10](https://user-images.githubusercontent.com/71313907/97775266-487d0b00-1b9a-11eb-9318-041ff619bdae.jpg)
 ![App11](https://user-images.githubusercontent.com/71313907/97775268-4a46ce80-1b9a-11eb-8097-9b12a97cea25.jpg)
+
+#Week 7. User Interaction
