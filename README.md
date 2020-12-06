@@ -33,7 +33,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 
 # Week 6. User Interaction
 ## 4.1. Clickable images
-![App7](https://user-images.githubusercontent.com/71313907/96570682-3929d200-12fd-11eb-8988-6bdf7d9ff5bb.jpg)![App7](https://user-images.githubusercontent.com/71313907/101270369-4ae30e00-37b3-11eb-8069-fd8835454ac8.jpg)
+![App7](https://user-images.githubusercontent.com/71313907/96570682-3929d200-12fd-11eb-8988-6bdf7d9ff5bb.jpg) ![App7](https://user-images.githubusercontent.com/71313907/101270369-4ae30e00-37b3-11eb-8069-fd8835454ac8.jpg)
 
 ## 4.2. Input Controls
 ![App9](https://user-images.githubusercontent.com/71313907/97775263-45821a80-1b9a-11eb-86da-0b3730c64006.jpg)
