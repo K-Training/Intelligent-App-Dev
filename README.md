@@ -15,7 +15,7 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 # Week 3:Layouts and resources for the UI
 
 ## 1.2 Part A: Your first interactive UI
- ###![Assignment](https://user-images.githubusercontent.com/71313907/95100814-1081d400-0764-11eb-8837-d6216b384878.jpg)
+![Assignment](https://user-images.githubusercontent.com/71313907/95100814-1081d400-0764-11eb-8837-d6216b384878.jpg)
 
 ## 1.2 Part B: The layout editor
 ![app](https://user-images.githubusercontent.com/71313907/95829715-2fd2bf80-0d69-11eb-992a-5e5e9b7a993c.jpg)
