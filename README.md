@@ -41,4 +41,5 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 ![App11](https://user-images.githubusercontent.com/71313907/97775268-4a46ce80-1b9a-11eb-8097-9b12a97cea25.jpg)
 
 # Week 7. User Interaction
+## 4.4. User navigation
 ![appp](https://user-images.githubusercontent.com/71313907/101270930-fa6eaf00-37b8-11eb-851a-9cf9a3aef45e.jpg)
