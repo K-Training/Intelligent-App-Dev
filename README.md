@@ -43,3 +43,12 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 # Week 7. User Interaction
 ## 4.4. User navigation
 ![appp](https://user-images.githubusercontent.com/71313907/101270930-fa6eaf00-37b8-11eb-851a-9cf9a3aef45e.jpg)
+
+# 4.5. Recycler View
+
+# Week 8. Material Design
+## 5.2. Cards and colours
+
+# Week 11. Shared Preferences
+## 9.1. Shared Preferences
+![mmexport1607233594059](https://user-images.githubusercontent.com/71313907/101272784-732a3700-37ca-11eb-9ab4-9dea3a99c90c.jpg)
