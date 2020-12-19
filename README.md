@@ -47,6 +47,7 @@ The app also has simple and user-friendly Interface. It can also work in offline
 
 # Week 8. Material Design
 ## 5.2. Cards and colours
+![design](https://user-images.githubusercontent.com/71313907/102676081-d8bcf100-41d6-11eb-8fd9-0e09dd28b3ab.jpg)
 
 # Week 9. Background Tasks
 ## 7.2: AsyncTask and AsyncTaskLoader
