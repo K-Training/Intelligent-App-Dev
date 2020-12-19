@@ -43,8 +43,6 @@ The app also has simple and user-friendly Interface. It can also work in offline
 ## 4.4. User navigation
 ![appp](https://user-images.githubusercontent.com/71313907/101270930-fa6eaf00-37b8-11eb-851a-9cf9a3aef45e.jpg)
 
-# 4.5. Recycler View
-
 # Week 8. Material Design
 ## 5.2. Cards and colours
 ![design](https://user-images.githubusercontent.com/71313907/102676081-d8bcf100-41d6-11eb-8fd9-0e09dd28b3ab.jpg)
