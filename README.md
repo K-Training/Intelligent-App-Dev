@@ -1,12 +1,11 @@
 # Intelligent Mobile Development!
 
 ## My Project Idea and Plan:
-### Project Name: A Communication App for University Students Project
-The application will enable students from the University of Management And Technology to communicate with each other on a single platform. This application will give STUDENTS the facility to chat, and share important notice. There will be a LOGIN PAGE for the users and CODE to join the same group.
-
-I will be using HP Laptop, Android Studio, Java, and XML for the development of this application. This app specifically targets a group of students and not one to one chat. The users would be provided with a login/signup page. Once they register on the app, they’ll be ready to enter the chat room with a code. After they enter the chat room, they can communicate and share the data.
-
-The user should be able to download the app either from Baidu, App Gallery, Play store or Apple store. Large number of users should able to use the app concurrently. The app should have a social function that will enable the user to login and connect with friends using the same app. Users should be able to send friend request to other users using the app. Friends should see each other, example User A and User B are friends and can see each other.
+### Project Name: A Note Taking Application
+The app is a simple note taking app that including Create, Read, Update, and Delete (CRUD) as its main features. However, the app also has the material design features which make it more user-friendly with positive user experience.
+The app enables its users to create, read and update very import information in the form of note, and delete unnecessary one. The app gives the user the facilities to give title/topic, describe, and also prioritize the notes.
+The title/topic of the note appears bolded, and the note with higher priority appears at the top for each category of note. Since this is a basic app, priorities range between 1 and 10.
+The app also has simple and user-friendly Interface. It can also work in offline mode given app usability even when there is no internet connection.
 
 # Week 2: Get started
 
@@ -48,6 +47,9 @@ The user should be able to download the app either from Baidu, App Gallery, Play
 
 # Week 8. Material Design
 ## 5.2. Cards and colours
+
+# Week 10. Notification
+![Notify Me](https://user-images.githubusercontent.com/71313907/102674805-300c9280-41d2-11eb-8ad7-a89746f6c56d.jpg)
 
 # Week 11. Shared Preferences
 ## 9.1. Shared Preferences
